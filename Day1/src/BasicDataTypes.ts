@@ -19,8 +19,8 @@ d = 12;
 let sotan : string[] = ['Saminur', 'Farhan'];
 let sotanAge : number[] = [25, 23];
 sotanAge.push(45);
-
+console.log(sotanAge);
 // Tuple --> array --> order --> Types of values
 let coordinates : [number,number] = [1, 5]
-let ageName : [number, string, boolean] = [21, "Ashraf", true]
+let ageName : [number, string, boolean] = [15, "Ashraf", true]
 
