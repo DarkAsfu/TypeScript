@@ -1,26 +1,29 @@
-// Basic data types
+{
+    // Basic data types
 
-// String
-let firstName : string = "Ashraful"; // explicit data type
-// Number
-let roll : number = 10;
-// boolean
-let isAdmin : boolean = true;
-// Undefined
-let x: undefined = undefined;
-// Null
-let y : null = null;
+    // String
+    let firstName: string = "Ashraful"; // explicit data type
+    // Number
+    let roll: number = 10;
+    // boolean
+    let isAdmin: boolean = true;
+    // Undefined
+    let x: undefined = undefined;
+    // Null
+    let y: null = null;
 
-let d : number;
-d = 12;
+    let d: number;
+    d = 12;
 
-// Array
+    // Array
 
-let sotan : string[] = ['Saminur', 'Farhan'];
-let sotanAge : number[] = [25, 23];
-sotanAge.push(45);
-console.log(sotanAge);
-// Tuple --> array --> order --> Types of values
-let coordinates : [number,number] = [1, 5]
-let ageName : [number, string, boolean] = [15, "Ashraf", true]
+    let sotan: string[] = ['Saminur', 'Farhan'];
+    let sotanAge: number[] = [25, 23];
+    sotanAge.push(45);
+    console.log(sotanAge);
+    // Tuple --> array --> order --> Types of values
+    let coordinates: [number, number] = [1, 5]
+    let ageName: [number, string, boolean] = [15, "Ashraf", true]
 
+
+}
