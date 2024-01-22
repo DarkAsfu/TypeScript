@@ -13,7 +13,7 @@
             return `The converted value is: ${value * 1000}`;
         }
     }
-    const result2 = kgToGm(2) as number
+    // const result2 = kgToGm(2) as number
     const result1 = kgToGm('2') as string
 
     type CustomError = {
