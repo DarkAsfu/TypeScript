@@ -27,7 +27,7 @@
         age: 1,
         contactNo: 'jsb'
     }
-    person1.name = "y"
+    // person1.name = "y"
 
     // Record
 
